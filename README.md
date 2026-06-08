@@ -4,13 +4,15 @@
 
 This list stays close to code you can run, embed, extend, or learn from. The focus is on open-source projects rather than closed vendor product pages, marketing sites, or paper-only repositories. It favors maintained projects and historically important foundations over one-off experiments and thin wrappers.
 
+Part of the [Awesome](https://github.com/sindresorhus/awesome#readme) ecosystem of curated lists.
+
 ## Contents
 
 - [Auction Engines and Ad Servers](#auction-engines-and-ad-servers)
 - [Header Bidding and Prebid](#header-bidding-and-prebid)
 - [OpenRTB and Protocol Libraries](#openrtb-and-protocol-libraries)
 - [Video Ads, VAST and CTV](#video-ads-vast-and-ctv)
-- [Programmatic Direct and Deal Automation](#programmatic-direct-and-deal-automation)
+- [AI and Agentic Advertising](#ai-and-agentic-advertising)
 - [Identity, Privacy and Supply Chain Transparency](#identity-privacy-and-supply-chain-transparency)
 - [Measurement, Analytics and Optimization](#measurement-analytics-and-optimization)
 - [Related Awesome Lists](#related-awesome-lists)
@@ -51,10 +53,14 @@ This list stays close to code you can run, embed, extend, or learn from. The foc
 - [SHARC](https://github.com/IABTechLab/SHARC) - Secure HTML Ad Richmedia Container standard and reference materials for cross-platform rich media ads.
 - [vastlint](https://github.com/aleksUIX/vastlint) - Spec-first VAST validator and linter with CLI, web, and MCP interfaces.
 
-## Programmatic Direct and Deal Automation
+## AI and Agentic Advertising
 
-- [buyer-agent](https://github.com/IABTechLab/buyer-agent) - IAB Tech Lab reference buyer-side agent for OpenDirect 2.1 media buying, negotiation, and deal booking.
+- [AdCP](https://github.com/adcontextprotocol/adcp) - Ad Context Protocol, an open standard from AgenticAdvertising.org for advertising automation over MCP and A2A.
+- [AAMP](https://github.com/IABTechLab/AAMP) - IAB Tech Lab umbrella hub for Agentic Advertising Management Protocols and linked agentic repos.
+- [buyer-agent](https://github.com/IABTechLab/buyer-agent) - IAB Tech Lab reference buyer-side agent for AI-assisted media buying, negotiation, and deal booking.
 - [seller-agent](https://github.com/IABTechLab/seller-agent) - IAB Tech Lab reference seller-side agent for media kits, pricing, deal negotiation, and Deals API distribution.
+- [agentic-audiences](https://github.com/IABTechLab/agentic-audiences) - Open protocol for exchanging embeddings and signals between advertising agents.
+- [agentic-realtime-framework](https://github.com/IABTechLab/agentic-realtime-framework) - IAB Tech Lab reference framework for agent-driven OpenRTB mutations over gRPC and MCP.
 
 ## Identity, Privacy and Supply Chain Transparency
 
@@ -86,6 +92,8 @@ This list stays close to code you can run, embed, extend, or learn from. The foc
 ## Contributing
 
 Pull requests are welcome.
+
+If you are new to Awesome lists, start with the official [Awesome README](https://github.com/sindresorhus/awesome#readme) and the [contribution guide](https://github.com/sindresorhus/awesome/blob/main/contributing.md).
 
 Good additions usually have all of the following:
 
