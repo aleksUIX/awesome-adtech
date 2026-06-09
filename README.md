@@ -20,10 +20,8 @@ Part of the [Awesome](https://github.com/sindresorhus/awesome#readme) ecosystem 
 
 ## Auction Engines and Ad Servers
 
-- [RTBKit](https://github.com/rtbkit/rtbkit) - Open-source toolkit for building and deploying real-time bidders for display advertising.
 - [vanilla-rtb](https://github.com/venediktov/vanilla-rtb) - C++ demand-side bidding framework for low-latency OpenRTB auctions.
 - [OpenSSP](https://github.com/ad-tech-group/openssp) - Open-source supply-side platform with OpenRTB support.
-- [Zhuque](https://github.com/javagossip/zhuque) - Open ad platform that bundles SSP, ADX, DSP, and DMP modules.
 - [ethical-ad-server](https://github.com/readthedocs/ethical-ad-server) - Privacy-friendly ad server built for developer-focused ads without behavioral tracking.
 
 ## Header Bidding and Prebid
@@ -47,7 +45,6 @@ Part of the [Awesome](https://github.com/sindresorhus/awesome#readme) ecosystem 
 - [rmp-vast](https://github.com/radiantmediaplayer/rmp-vast) - Client-side JavaScript loader, parser, and renderer for VAST 2, 3, and 4 in HTML5 video.
 - [php-vast](https://github.com/sokil/php-vast) - PHP library for generating and parsing VAST documents.
 - [haxqer/vast](https://github.com/haxqer/vast) - Go library for generating and parsing VAST 4.2 payloads.
-- [madman-android](https://github.com/flipkart-incubator/madman-android) - Android media ads manager for rendering VAST ads without the standard IMA SDK.
 - [threefive](https://github.com/superkabuki/threefive_is_scte35) - SCTE-35 parser and encoder for ad break signaling in CTV and OTT workflows.
 - [VAST-Tester](https://github.com/IABTechLab/VAST-Tester) - IAB Tech Lab's React-based VAST testing application for exercising video ad tags and player behavior.
 - [SHARC](https://github.com/IABTechLab/SHARC) - Secure HTML Ad Richmedia Container standard and reference materials for cross-platform rich media ads.
@@ -86,7 +83,6 @@ Part of the [Awesome](https://github.com/sindresorhus/awesome#readme) ecosystem 
 
 - [AirGrid/awesome-adtech](https://github.com/AirGrid/awesome-adtech) - Community-curated list of adtech links and tools.
 - [cenoura/awesome-ads](https://github.com/cenoura/awesome-ads) - Advertising resources covering ad ops, ad servers, programmatic, and validation.
-- [vanilla-rtb/awesome-rtb](https://github.com/vanilla-rtb/awesome-rtb) - RTB-focused list of frameworks, engines, and related resources.
 - [jshorwitz/awesome-agentic-advertising](https://github.com/jshorwitz/awesome-agentic-advertising) - AI-agent and MCP tooling for advertising workflows.
 
 ## Contributing
