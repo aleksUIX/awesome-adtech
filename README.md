@@ -10,7 +10,7 @@ Part of the [Awesome](https://github.com/sindresorhus/awesome#readme) ecosystem 
 
 - [Auction Engines and Ad Servers](#auction-engines-and-ad-servers)
 - [Header Bidding and Prebid](#header-bidding-and-prebid)
-- [OpenRTB and Protocol Libraries](#openrtb-and-protocol-libraries)
+- [OpenRTB and Bidstream Tooling](#openrtb-and-bidstream-tooling)
 - [Video Ads, VAST and CTV](#video-ads-vast-and-ctv)
 - [AI and Agentic Advertising](#ai-and-agentic-advertising)
 - [Identity, Privacy and Supply Chain Transparency](#identity-privacy-and-supply-chain-transparency)
@@ -22,7 +22,9 @@ Part of the [Awesome](https://github.com/sindresorhus/awesome#readme) ecosystem 
 
 - [vanilla-rtb](https://github.com/venediktov/vanilla-rtb) - C++ demand-side bidding framework for low-latency OpenRTB auctions.
 - [OpenSSP](https://github.com/ad-tech-group/openssp) - Open-source supply-side platform with OpenRTB support.
+- [Revive Adserver](https://github.com/revive-adserver/revive-adserver) - Long-running self-hosted ad server (formerly OpenX Source) for campaign management, delivery, and reporting.
 - [ethical-ad-server](https://github.com/readthedocs/ethical-ad-server) - Privacy-friendly ad server built for developer-focused ads without behavioral tracking.
+- [trusted-server](https://github.com/IABTechLab/trusted-server) - IAB Tech Lab edge framework that moves third-party ad JavaScript out of the browser into server-side WASM, giving publishers first-party control over serving.
 
 ## Header Bidding and Prebid
 
@@ -34,9 +36,10 @@ Part of the [Awesome](https://github.com/sindresorhus/awesome#readme) ecosystem 
 - [ArcAds](https://github.com/washingtonpost/ArcAds) - Publisher-oriented wrapper around Google Ad Manager / DFP with header bidding support.
 - [dfp-prebid-setup](https://github.com/kmjennison/dfp-prebid-setup) - Automated line item generator for Prebid.js and Google Ad Manager.
 
-## OpenRTB and Protocol Libraries
+## OpenRTB and Bidstream Tooling
 
 - [prebid/openrtb](https://github.com/prebid/openrtb) - Go types for OpenRTB 2.x, 3.0, AdCOM 1.0, and Native 1.2.
+- [DynamicTrafficEngine](https://github.com/IABTechLab/DynamicTrafficEngine) - Bidstream traffic-shaping framework donated by Amazon Ads to IAB Tech Lab, letting buyers signal bidding priorities so SSPs cut low-value bid requests and QPS waste.
 
 ## Video Ads, VAST and CTV
 
@@ -62,15 +65,16 @@ Part of the [Awesome](https://github.com/sindresorhus/awesome#readme) ecosystem 
 ## Identity, Privacy and Supply Chain Transparency
 
 - [id5-api.js](https://github.com/id5io/id5-api.js) - Publisher-facing JavaScript API for ID5's privacy-aware universal identifier.
+- [uid2-operator](https://github.com/IABTechLab/uid2-operator) - Core server implementation for Unified ID 2.0 token generation and operator workflows.
+- [iabgpp-es](https://github.com/IABTechLab/iabgpp-es) - TypeScript library for encoding, decoding, and exposing the IAB Global Privacy Platform string and APIs.
+- [iabgpp-java](https://github.com/IABTechLab/iabgpp-java) - Java library for encoding and decoding GPP consent strings and related privacy sections.
+- [adscert](https://github.com/IABTechLab/adscert) - Go reference implementation of the ads.cert 2.0 Authenticated Connections protocol for cryptographically signing ad transactions.
 - [adstxtcrawler](https://github.com/InteractiveAdvertisingBureau/adstxtcrawler) - IAB reference crawler for Ads.txt discovery and validation workflows.
 - [ads.txt-parser](https://github.com/InteractiveAdvertisingBureau/ads.txt-parser) - IAB reference parser for ads.txt and app-ads.txt processing.
 - [10up/ads-txt](https://github.com/10up/ads-txt) - WordPress plugin for managing ads.txt and app-ads.txt files.
 - [ads.txt](https://github.com/perry-mitchell/ads.txt) - JavaScript parser and generator for ads.txt files.
 - [adscrawler](https://github.com/appgoblin-dev/adscrawler) - Crawler for app stores, SDKs, and app-ads.txt discovery.
 - [iab-mapper](https://github.com/IABTechLab/iab-mapper) - Local IAB content taxonomy mapper with OpenRTB- and VAST-ready output.
-- [iabgpp-es](https://github.com/IABTechLab/iabgpp-es) - TypeScript library for encoding, decoding, and exposing the IAB Global Privacy Platform string and APIs.
-- [iabgpp-java](https://github.com/IABTechLab/iabgpp-java) - Java library for encoding and decoding GPP consent strings and related privacy sections.
-- [uid2-operator](https://github.com/IABTechLab/uid2-operator) - Core server implementation for Unified ID 2.0 token generation and operator workflows.
 
 ## Measurement, Analytics and Optimization
 
