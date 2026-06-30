@@ -61,6 +61,7 @@ Part of the [Awesome](https://github.com/sindresorhus/awesome#readme) ecosystem 
 - [seller-agent](https://github.com/IABTechLab/seller-agent) - IAB Tech Lab reference seller-side agent for media kits, pricing, deal negotiation, and Deals API distribution.
 - [agentic-audiences](https://github.com/IABTechLab/agentic-audiences) - Open protocol for exchanging embeddings and signals between advertising agents.
 - [agentic-realtime-framework](https://github.com/IABTechLab/agentic-realtime-framework) - IAB Tech Lab reference framework for agent-driven OpenRTB mutations over gRPC and MCP.
+- [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills and MCP servers for operating buy-side paid media and measurement from an agent: Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
 
 ## Identity, Privacy and Supply Chain Transparency
 
