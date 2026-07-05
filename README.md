@@ -40,6 +40,7 @@ Part of the [Awesome](https://github.com/sindresorhus/awesome#readme) ecosystem 
 
 - [prebid/openrtb](https://github.com/prebid/openrtb) - Go types for OpenRTB 2.x, 3.0, AdCOM 1.0, and Native 1.2.
 - [DynamicTrafficEngine](https://github.com/IABTechLab/DynamicTrafficEngine) - Bidstream traffic-shaping framework donated by Amazon Ads to IAB Tech Lab, letting buyers signal bidding priorities so SSPs cut low-value bid requests and QPS waste.
+- [rtblint](https://github.com/aleksUIX/rtblint) - Spec-first OpenRTB bid request validator and linter, version-aware across 2.0-3.0, with a browser tester, Rust CLI, and MCP server.
 
 ## Video Ads, VAST and CTV
 
