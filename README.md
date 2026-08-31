@@ -35,6 +35,7 @@ Part of the [Awesome](https://github.com/sindresorhus/awesome#readme) ecosystem 
 - [Prebid Mobile iOS](https://github.com/prebid/prebid-mobile-ios) - iOS SDK for bringing Prebid demand into mobile apps.
 - [ArcAds](https://github.com/washingtonpost/ArcAds) - Publisher-oriented wrapper around Google Ad Manager / DFP with header bidding support.
 - [dfp-prebid-setup](https://github.com/kmjennison/dfp-prebid-setup) - Automated line item generator for Prebid.js and Google Ad Manager.
+- [professor-prebid](https://github.com/prebid/professor-prebid) - Browser extension for debugging Prebid.js on live pages, showing auctions, bids, timeouts, and ad unit configuration.
 
 ## OpenRTB and Bidstream Tooling
 
@@ -52,7 +53,8 @@ Part of the [Awesome](https://github.com/sindresorhus/awesome#readme) ecosystem 
 - [threefive](https://github.com/superkabuki/threefive_is_scte35) - SCTE-35 parser and encoder for ad break signaling in CTV and OTT workflows.
 - [VAST-Tester](https://github.com/IABTechLab/VAST-Tester) - IAB Tech Lab's React-based VAST testing application for exercising video ad tags and player behavior.
 - [SHARC](https://github.com/IABTechLab/SHARC) - Secure HTML Ad Richmedia Container standard and reference materials for cross-platform rich media ads.
-- [vastlint](https://github.com/aleksUIX/vastlint) - Spec-first VAST validator and linter with CLI, web, and MCP interfaces.
+- [vastlint](https://github.com/aleksUIX/vastlint) - Spec-first VAST linter; browser tester https://vastlint.org/tester/; wrapper inspector https://vastlint.org/inspect/.
+- [SIMID](https://github.com/InteractiveAdvertisingBureau/SIMID) - Secure Interactive Media Interface Definition, with reference creatives and player-side samples for interactive video ads served through VAST.
 
 ## AI and Agentic Advertising
 
@@ -61,8 +63,12 @@ Part of the [Awesome](https://github.com/sindresorhus/awesome#readme) ecosystem 
 - [buyer-agent](https://github.com/IABTechLab/buyer-agent) - IAB Tech Lab reference buyer-side agent for AI-assisted media buying, negotiation, and deal booking.
 - [seller-agent](https://github.com/IABTechLab/seller-agent) - IAB Tech Lab reference seller-side agent for media kits, pricing, deal negotiation, and Deals API distribution.
 - [agentic-audiences](https://github.com/IABTechLab/agentic-audiences) - Open protocol for exchanging embeddings and signals between advertising agents.
-- [agentic-realtime-framework](https://github.com/IABTechLab/agentic-realtime-framework) - IAB Tech Lab reference framework for agent-driven OpenRTB mutations over gRPC and MCP.
-- [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills and MCP servers for operating buy-side paid media and measurement from an agent: Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
+- [agentic-real-time-framework](https://github.com/IABTechLab/agentic-real-time-framework) - IAB Tech Lab reference framework for agent-driven OpenRTB mutations over gRPC and MCP.
+- [iab-agentic-primitives](https://github.com/IABTechLab/iab-agentic-primitives) - Shared contract library behind the IAB buyer and seller agents, with OpenAPI and JSON Schema definitions, lifecycle state machines, conformance vectors, and a Python reference implementation.
+- [salesagent](https://github.com/prebid/salesagent) - Prebid.org sales agent implementing the AdCP Media Buy protocol over MCP and A2A, with Google Ad Manager integration, multi-tenant isolation, and an admin UI.
+- [adcp-client](https://github.com/adcontextprotocol/adcp-client) - TypeScript SDK for AdCP, covering both client and server sides of the protocol.
+- [adcp-go](https://github.com/adcontextprotocol/adcp-go) - Go SDK for building AdCP clients and agents.
+- [NotFair](https://github.com/nowork-studio/notfair-plugin) - Open-source Claude Code skills and MCP servers for operating buy-side paid media and measurement from an agent: Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
 - [google-ads-mcp](https://github.com/googleads/google-ads-mcp) - Google's official MCP server for the Google Ads API, exposing GAQL search, account listing, and resource metadata to AI agents.
 
 ## Identity, Privacy and Supply Chain Transparency
@@ -81,6 +87,8 @@ Part of the [Awesome](https://github.com/sindresorhus/awesome#readme) ecosystem 
 
 ## Measurement, Analytics and Optimization
 
+- [Open-Measurement-JSClients](https://github.com/InteractiveAdvertisingBureau/Open-Measurement-JSClients) - IAB Tech Lab JavaScript clients for the Open Measurement Interface Definition (OMID), used for viewability and verification signals in web and video ads.
+- [iab-taxonomy-classifier](https://github.com/IABTechLab/iab-taxonomy-classifier) - Cloudflare Workers service that classifies pages against the IAB Content Taxonomy using vector embeddings and similarity search.
 - [advertools](https://github.com/eliasdabbas/advertools) - Python toolkit for online marketing, SEO, and advertising analysis.
 - [AppGoblin](https://github.com/appgoblin-dev/appgoblin) - App store analytics focused on ad networks, trackers, and MMP visibility.
 - [DeepRec](https://github.com/DeepRec-AI/DeepRec) - High-performance recommendation framework useful for ranking and personalization workloads in ads systems.
