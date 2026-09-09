@@ -99,6 +99,7 @@ Part of the [Awesome](https://github.com/sindresorhus/awesome#readme) ecosystem 
 - [AirGrid/awesome-adtech](https://github.com/AirGrid/awesome-adtech) - Community-curated list of adtech links and tools.
 - [cenoura/awesome-ads](https://github.com/cenoura/awesome-ads) - Advertising resources covering ad ops, ad servers, programmatic, and validation.
 - [jshorwitz/awesome-agentic-advertising](https://github.com/jshorwitz/awesome-agentic-advertising) - AI-agent and MCP tooling for advertising workflows.
+- [franks33/agentic-advertising-stack](https://github.com/franks33/agentic-advertising-stack) - Layered map of agentic advertising protocols and infrastructure: AdCP, AAMP, MCP, A2A, commerce, identity, and publisher signals.
 
 ## Contributing
 
