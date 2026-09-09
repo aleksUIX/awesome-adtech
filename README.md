@@ -100,6 +100,10 @@ Part of the [Awesome](https://github.com/sindresorhus/awesome#readme) ecosystem 
 - [cenoura/awesome-ads](https://github.com/cenoura/awesome-ads) - Advertising resources covering ad ops, ad servers, programmatic, and validation.
 - [jshorwitz/awesome-agentic-advertising](https://github.com/jshorwitz/awesome-agentic-advertising) - AI-agent and MCP tooling for advertising workflows.
 - [franks33/agentic-advertising-stack](https://github.com/franks33/agentic-advertising-stack) - Layered map of agentic advertising protocols and infrastructure: AdCP, AAMP, MCP, A2A, commerce, identity, and publisher signals.
+- [matteotitta/awesome-gtm-mcp-servers](https://github.com/matteotitta/awesome-gtm-mcp-servers) - MCP servers for the go-to-market stack: CRM, enrichment, SEO, ads, analytics, and lifecycle.
+- [tuanone123/awesome-social-commerce-mcp](https://github.com/tuanone123/awesome-social-commerce-mcp) - MCP servers for social media, marketing, advertising, and ecommerce.
+- [bitrefill/awesome-agentic-payments](https://github.com/bitrefill/awesome-agentic-payments) - Protocols, specs, SDKs, and tools for agentic commerce and payments: ACP, UCP, AP2, x402.
+- [xpaysh/awesome-agentic-commerce](https://github.com/xpaysh/awesome-agentic-commerce) - Active agent-to-merchant commerce protocols and implementations: ACP, UCP, AP2, x402, MPP.
 
 ## Contributing
 
