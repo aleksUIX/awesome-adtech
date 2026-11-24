@@ -55,6 +55,11 @@ Part of the [Awesome](https://github.com/sindresorhus/awesome#readme) ecosystem 
 - [SHARC](https://github.com/IABTechLab/SHARC) - Secure HTML Ad Richmedia Container standard and reference materials for cross-platform rich media ads.
 - [vastlint](https://github.com/aleksUIX/vastlint) - Spec-first VAST linter; browser tester https://vastlint.org/tester/; wrapper inspector https://vastlint.org/inspect/.
 - [SIMID](https://github.com/InteractiveAdvertisingBureau/SIMID) - Secure Interactive Media Interface Definition, with reference creatives and player-side samples for interactive video ads served through VAST.
+- [Google Ads Transparency Scraper](https://apify.com/publicrecords/google-ads-transparency-scraper) - Google ads a competitor runs, from the Ads Transparency Center, with first and last shown dates (Apify Actor, API + MCP).
+- [Company Social Profile Finder](https://apify.com/publicrecords/company-social-profile-finder) - Company domain or name to its LinkedIn, X, YouTube, Instagram and Facebook links, with confidence scores (Apify Actor, API + MCP).
+- [Etsy Search Scraper](https://apify.com/publicrecords/etsy-search-scraper) - Etsy search results by keyword: price, rating, reviews, Bestseller badge, ad flag, rank (Apify Actor, API + MCP).
+- [Etsy Shop Daily Sales](https://apify.com/publicrecords/etsy-shop-velocity) - Daily, 7-day and 28-day sales for Etsy shops from each shop's public sales counter (Apify Actor, API + MCP).
+- [Spotify Play Count Scraper](https://apify.com/publicrecords/spotify-play-count-scraper) - Play counts for every track on a Spotify track, album, artist or playlist link, plus monthly listeners (Apify Actor, API + MCP).
 
 ## AI and Agentic Advertising
 
